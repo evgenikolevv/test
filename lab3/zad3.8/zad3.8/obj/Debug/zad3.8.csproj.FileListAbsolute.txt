@@ -1,0 +1,7 @@
+D:\university-master\PPS\lab3\zad3.8\zad3.8\obj\Debug\zad3.8.csprojAssemblyReference.cache
+D:\university-master\PPS\lab3\zad3.8\zad3.8\obj\Debug\zad3.8.csproj.CoreCompileInputs.cache
+D:\university-master\PPS\lab3\zad3.8\zad3.8\bin\Debug\zad3.8.exe.config
+D:\university-master\PPS\lab3\zad3.8\zad3.8\bin\Debug\zad3.8.exe
+D:\university-master\PPS\lab3\zad3.8\zad3.8\bin\Debug\zad3.8.pdb
+D:\university-master\PPS\lab3\zad3.8\zad3.8\obj\Debug\zad3.8.exe
+D:\university-master\PPS\lab3\zad3.8\zad3.8\obj\Debug\zad3.8.pdb

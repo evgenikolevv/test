@@ -1,0 +1,7 @@
+D:\university-master\PPS\lab3\Zad3.5\Zad3.5\bin\Debug\Zad3.5.exe.config
+D:\university-master\PPS\lab3\Zad3.5\Zad3.5\bin\Debug\Zad3.5.exe
+D:\university-master\PPS\lab3\Zad3.5\Zad3.5\bin\Debug\Zad3.5.pdb
+D:\university-master\PPS\lab3\Zad3.5\Zad3.5\obj\Debug\Zad3.5.csprojAssemblyReference.cache
+D:\university-master\PPS\lab3\Zad3.5\Zad3.5\obj\Debug\Zad3.5.csproj.CoreCompileInputs.cache
+D:\university-master\PPS\lab3\Zad3.5\Zad3.5\obj\Debug\Zad3.5.exe
+D:\university-master\PPS\lab3\Zad3.5\Zad3.5\obj\Debug\Zad3.5.pdb
