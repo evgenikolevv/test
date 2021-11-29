@@ -1,0 +1,6 @@
+stoyan 5.00
+mario 4.50
+svetla 6.00
+mariela 5.00
+stela 4.50
+martin 6.00

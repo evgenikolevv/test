@@ -1,0 +1,7 @@
+D:\university-master\PPS\lab9\zadacha5\zadacha5\bin\Debug\zadacha5.exe.config
+D:\university-master\PPS\lab9\zadacha5\zadacha5\bin\Debug\zadacha5.exe
+D:\university-master\PPS\lab9\zadacha5\zadacha5\bin\Debug\zadacha5.pdb
+D:\university-master\PPS\lab9\zadacha5\zadacha5\obj\Debug\zadacha5.csprojAssemblyReference.cache
+D:\university-master\PPS\lab9\zadacha5\zadacha5\obj\Debug\zadacha5.csproj.CoreCompileInputs.cache
+D:\university-master\PPS\lab9\zadacha5\zadacha5\obj\Debug\zadacha5.exe
+D:\university-master\PPS\lab9\zadacha5\zadacha5\obj\Debug\zadacha5.pdb
