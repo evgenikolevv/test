@@ -1,0 +1,7 @@
+D:\university-master\PPS\lab13\zadacha1\zadacha1\bin\Debug\p.exe.config
+D:\university-master\PPS\lab13\zadacha1\zadacha1\bin\Debug\p.exe
+D:\university-master\PPS\lab13\zadacha1\zadacha1\bin\Debug\p.pdb
+D:\university-master\PPS\lab13\zadacha1\zadacha1\obj\Debug\zadacha1.csprojAssemblyReference.cache
+D:\university-master\PPS\lab13\zadacha1\zadacha1\obj\Debug\zadacha1.csproj.CoreCompileInputs.cache
+D:\university-master\PPS\lab13\zadacha1\zadacha1\obj\Debug\p.exe
+D:\university-master\PPS\lab13\zadacha1\zadacha1\obj\Debug\p.pdb

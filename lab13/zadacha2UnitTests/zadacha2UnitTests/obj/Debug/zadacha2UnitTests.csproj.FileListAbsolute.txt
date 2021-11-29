@@ -1,0 +1,7 @@
+D:\university-master\PPS\lab13\zadacha2UnitTests\zadacha2UnitTests\obj\Debug\zadacha2UnitTests.csprojAssemblyReference.cache
+D:\university-master\PPS\lab13\zadacha2UnitTests\zadacha2UnitTests\obj\Debug\zadacha2UnitTests.csproj.CoreCompileInputs.cache
+D:\university-master\PPS\lab13\zadacha2UnitTests\zadacha2UnitTests\bin\Debug\zadacha2UnitTests.exe.config
+D:\university-master\PPS\lab13\zadacha2UnitTests\zadacha2UnitTests\bin\Debug\zadacha2UnitTests.exe
+D:\university-master\PPS\lab13\zadacha2UnitTests\zadacha2UnitTests\bin\Debug\zadacha2UnitTests.pdb
+D:\university-master\PPS\lab13\zadacha2UnitTests\zadacha2UnitTests\obj\Debug\zadacha2UnitTests.exe
+D:\university-master\PPS\lab13\zadacha2UnitTests\zadacha2UnitTests\obj\Debug\zadacha2UnitTests.pdb
